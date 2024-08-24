@@ -1,2 +1,2 @@
 local l = loadstring(game:HttpGet("https://raw.githubusercontent.com/laagginq/ui-libraries/main/dxhooknotify/src.lua", true))()
-l:Notify("Aeronoss Hub","Script Updating...",10)
+l:Notify("Aeronoss Hub","Script Updating...",10000000000000000000000000000000000000000000000000)
